@@ -6,7 +6,7 @@ import '../assets/css/componentes/cabecalho.css'
 const Cabecalho = () => {
     return(
     <header className="cabecalho container">
-        <div classname="menu-hamburger">
+        <div className="menu-hamburger">
             <span className="menu-hamburguer__icone"></span>
         </div>
         <div className="cabecalho-container">
